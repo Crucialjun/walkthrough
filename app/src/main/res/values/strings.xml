@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">walkthrough</string>
+    <string name="subtitle1">We are here to help you with your events logging to avoid using your memory</string>
+    <string name="get_started">GET STARTED</string>
+</resources>
